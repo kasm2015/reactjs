@@ -18,3 +18,25 @@ To create a new app, you may choose one of the following methods:
 
 <div class="highlight highlight-source-shell"><pre>Example : npx create-react-app <i>my-first-react-app</i></pre></div>
 
+<p>It will create a directory called <code>my-app</code> inside the current folder.<br>
+Inside that directory, it will generate the initial project structure and install the transitive dependencies:</p>
+
+<pre><code>my-app
+├── README.md
+├── node_modules
+├── package.json
+├── .gitignore
+├── public
+│   ├── favicon.ico
+│   ├── index.html
+│   └── manifest.json
+└── src
+    ├── App.css
+    ├── App.js
+    ├── App.test.js
+    ├── index.css
+    ├── index.js
+    ├── logo.svg
+    └── serviceWorker.js
+</code></pre>
+
