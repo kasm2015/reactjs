@@ -8,6 +8,7 @@ You’ll need to have Node 8.16.0 or Node 10.16.0 or later version on your local
 
 To create a new app, you may choose one of the following methods:
 
-npx
+<b>npx</b>
+
 npx create-react-app my-app
 (npx comes with npm 5.2+ and higher, see instructions for older npm versions)
