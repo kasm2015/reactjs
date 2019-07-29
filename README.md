@@ -1,2 +1,2 @@
 # reactjs
-This repository is created for the purpose learning for beginners.
+This repository is created for the purpose learning ReactJS for beginners.
