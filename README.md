@@ -12,4 +12,4 @@ To create a new app, you may choose one of the following methods:
 <br/>
 <b>npx</b>
 
-<div class="highlight highlight-source-shell"><pre>npx create-react-app <name-of-your-react-app></pre></div>
+<div class="highlight highlight-source-shell"><pre>npx create-react-app <i>name-of-your-react-app></i></pre></div>
